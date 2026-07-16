@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Tanka 👋
+# Hi, call me Tanka 👋
 ### Web Security Enthusiast | Student | white hat |
 
 [![GitHub Views](https://komarev.com/ghpvc/?username=tanakadev-7&style=flat-square&color=0070f3)](https://github.com/tanakadev-7)
