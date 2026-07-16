@@ -1,17 +1,63 @@
-# 💫 About Me:
-I am a student<br>A beginner who fills my time with learning<br><br>🔭 Currently working on: Developing custom Web VAPT automation scripts and building the "Global Learning & Creative Hub" Discord community.<br><br>    🌱 Currently learning: Web Application Penetration Testing, bug hunting methodologies, advanced Python/Bash scripting, and English for professional technical communication.<br><br>    👯 Looking to collaborate on: Open-source web security tools, bug bounty research, and security automation projects.<br><br>    🤔 Seeking help with: Advanced web exploitation techniques, complex business logic vulnerabilities, and web CTF challenges.<br><br>    💬 Ask me about: Web security (SQLi, XSS, OWASP Top 10), Burp Suite, Kali Linux tools,<br>    📫 How to reach me: [discord:<br>display name: Tanka<br>username: tanaka_aika763]<br>    
-😄  
-Pronouns: He/Him<br>
+<div align="center">
 
+# Hi, I'm Tanka 👋
+### Web Security Enthusiast | VAPT Automation Specialist | Bug Hunter
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=tanakadev-7&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=tanakadev-7&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=tanakadev-7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![GitHub Views](https://komarev.com/ghpvc/?username=tanakadev-7&style=flat-square&color=0070f3)](https://github.com/tanakadev-7)
+[![Discord](https://img.shields.io/badge/Discord-tanaka__aika763-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com)
 
 ---
-[![](https://komarev.com/ghpvc/?username=tanakadev-7&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
+## 📌 About Me
+
+> A dedicated cybersecurity learner focused on Web Application Penetration Testing, custom security automation, and threat research.
+
+* 🔭 **Currently Working On**: Custom Web VAPT automation scripts & leading the **Global Learning & Creative Hub** Discord community.
+* 🌱 **Currently Learning**: Advanced Web Exploitation, Bug Hunting Methodologies, Custom Scripting (Python/Bash), and Technical English Communication.
+* 👯 **Open to Collaborate**: Open-source web security tools, bug bounty research, and security automation workflows.
+* 🤔 **Seeking Guidance On**: Business logic flaws, advanced web exploitation vectors, and complex Web CTF challenges.
+* 💬 **Ask Me About**: Web Security (OWASP Top 10, SQLi, XSS), Burp Suite, and Kali Linux toolchains.
+
+---
+
+## 💻 Tech Stack & Tools
+
+#### 🛡️ Security & Automation
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+#### ⚙️ Languages & Core Development
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+#### 🧪 Testing & Creative Tools
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Godot Engine](https://img.shields.io/badge/Godot_Engine-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.shion.dev/api?username=tanakadev-7&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Tanaka's GitHub Stats" />
+<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=tanakadev-7&theme=tokyonight&layout=compact&hide_border=true&hide=html,css" alt="Top Languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=tanakadev-7&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
+
+<div align="center">
+  <sub>Pronouns: He/Him • Built with focus on Security & Automation</sub>
+</div>
