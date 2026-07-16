@@ -13,6 +13,7 @@
 ## 📌 About Me
 
 > A dedicated cybersecurity learner focused on Web Application Penetration Testing, custom security automation, and threat research.
+> A beginner
 
 * 🔭 **Currently Working On**: Burp Suite extension project and 3D game development
 * 🌱 **Currently Learning**: Advanced Web Exploitation, Bug Hunting Methodologies, Custom Scripting (Python/Bash), and Technical English Communication.
@@ -59,5 +60,5 @@
 ---
 
 <div align="center">
-  <sub>Pronouns: He/Him • Built with focus on Security & Automation</sub>
+  <sub>Pronouns: He/Him • about me </sub>
 </div>
