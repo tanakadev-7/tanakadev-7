@@ -16,7 +16,7 @@
 
 * 🔭 **Currently Working On**: Burp Suite extension project and 3D game development
 * 🌱 **Currently Learning**: Advanced Web Exploitation, Bug Hunting Methodologies, Custom Scripting (Python/Bash), and Technical English Communication.
-* 👯 **Open to Collaborate**: Open-source web security tools, bug bounty research, and app & game development
+* 👯 **Open to Collaborate**: Open-source web security tools, bug bounty research,app & game development
 * 🤔 **Seeking Guidance On**: Business logic flaws, advanced web exploitation vectors, and complex Web CTF challenges.
 * 💬 **Ask Me About**: Web Security (OWASP Top 10, SQLi, XSS), Burp Suite, and Kali Linux toolchains.
 
