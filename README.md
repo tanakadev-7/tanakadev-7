@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi, I'm Tanka 👋
-### Web Security Enthusiast | Student | white hat | 
+### Web Security Enthusiast | Student | white hat |
 
 [![GitHub Views](https://komarev.com/ghpvc/?username=tanakadev-7&style=flat-square&color=0070f3)](https://github.com/tanakadev-7)
 [![Discord](https://img.shields.io/badge/Discord-tanaka__aika763-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com)
