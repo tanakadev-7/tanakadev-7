@@ -44,21 +44,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.shion.dev/api?username=tanakadev-7&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Tanaka's GitHub Stats" />
-<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=tanakadev-7&theme=tokyonight&layout=compact&hide_border=true&hide=html,css" alt="Top Languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=tanakadev-7&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
-
 <div align="center">
   <sub>Pronouns: He/Him • about me </sub>
 </div>
