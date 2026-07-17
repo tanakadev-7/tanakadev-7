@@ -6,7 +6,7 @@
 [![GitHub Views](https://komarev.com/ghpvc/?username=tanakadev-7&style=flat-square&color=0070f3)](https://github.com/tanakadev-7)
 [![Discord](https://img.shields.io/badge/Discord-tanaka__aika763-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-tanaka22-212C42?style=flat-square&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/tanaka22)
-![Tanaka's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanakadev-7&show_icons=true&theme=radial)
+
 ---
 
 </div>
